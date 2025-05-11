@@ -1,0 +1,294 @@
+  COMP_get_type                                                     1
+  COMP_zlib                                                         1
+  Diagnostics::clearError()                                         1
+  EVP_aes_128_cbc                                                   1
+  EVP_aes_128_cbc_hmac_sha1                                         1
+  EVP_aes_128_cbc_hmac_sha256                                       1
+  EVP_aes_128_ccm                                                   1
+  EVP_aes_128_cfb1                                                  1
+  EVP_aes_128_cfb128                                                1
+  EVP_aes_128_cfb8                                                  1
+  EVP_aes_128_ctr                                                   1
+  EVP_aes_128_ecb                                                   1
+  EVP_aes_128_gcm                                                   1
+  EVP_aes_128_ocb                                                   1
+  EVP_aes_128_ofb                                                   1
+  EVP_aes_128_wrap                                                  1
+  EVP_aes_128_wrap_pad                                              1
+  EVP_aes_128_xts                                                   1
+  EVP_aes_192_cbc                                                   1
+  EVP_aes_192_ccm                                                   1
+  EVP_aes_192_cfb1                                                  1
+  EVP_aes_192_cfb128                                                1
+  EVP_aes_192_cfb8                                                  1
+  EVP_aes_192_ctr                                                   1
+  EVP_aes_192_ecb                                                   1
+  EVP_aes_192_gcm                                                   1
+  EVP_aes_192_ocb                                                   1
+  EVP_aes_192_ofb                                                   1
+  EVP_aes_192_wrap                                                  1
+  EVP_aes_192_wrap_pad                                              1
+  EVP_aes_256_cbc                                                   1
+  EVP_aes_256_cbc_hmac_sha1                                         1
+  EVP_aes_256_cbc_hmac_sha256                                       1
+  EVP_aes_256_ccm                                                   1
+  EVP_aes_256_cfb1                                                  1
+  EVP_aes_256_cfb128                                                1
+  EVP_aes_256_cfb8                                                  1
+  EVP_aes_256_ctr                                                   1
+  EVP_aes_256_ecb                                                   1
+  EVP_aes_256_gcm                                                   1
+  EVP_aes_256_ocb                                                   1
+  EVP_aes_256_ofb                                                   1
+  EVP_aes_256_wrap                                                  1
+  EVP_aes_256_wrap_pad                                              1
+  EVP_aes_256_xts                                                   1
+  EVP_aria_128_cbc                                                  1
+  EVP_aria_128_ccm                                                  1
+  EVP_aria_128_cfb1                                                 1
+  EVP_aria_128_cfb128                                               1
+  EVP_aria_128_cfb8                                                 1
+  EVP_aria_128_ctr                                                  1
+  EVP_aria_128_ecb                                                  1
+  EVP_aria_128_gcm                                                  1
+  EVP_aria_128_ofb                                                  1
+  EVP_aria_192_cbc                                                  1
+  EVP_aria_192_ccm                                                  1
+  EVP_aria_192_cfb1                                                 1
+  EVP_aria_192_cfb128                                               1
+  EVP_aria_192_cfb8                                                 1
+  EVP_aria_192_ctr                                                  1
+  EVP_aria_192_ecb                                                  1
+  EVP_aria_192_gcm                                                  1
+  EVP_aria_192_ofb                                                  1
+  EVP_aria_256_cbc                                                  1
+  EVP_aria_256_ccm                                                  1
+  EVP_aria_256_cfb1                                                 1
+  EVP_aria_256_cfb128                                               1
+  EVP_aria_256_cfb8                                                 1
+  EVP_aria_256_ctr                                                  1
+  EVP_aria_256_ecb                                                  1
+  EVP_aria_256_gcm                                                  1
+  EVP_aria_256_ofb                                                  1
+  EVP_bf_cbc                                                        1
+  EVP_bf_cfb64                                                      1
+  EVP_bf_ecb                                                        1
+  EVP_bf_ofb                                                        1
+  EVP_camellia_128_cbc                                              1
+  EVP_camellia_128_cfb1                                             1
+  EVP_camellia_128_cfb128                                           1
+  EVP_camellia_128_cfb8                                             1
+  EVP_camellia_128_ecb                                              1
+  EVP_camellia_128_ofb                                              1
+  EVP_camellia_192_cbc                                              1
+  EVP_camellia_192_cfb1                                             1
+  EVP_camellia_192_cfb128                                           1
+  EVP_camellia_192_cfb8                                             1
+  EVP_camellia_192_ecb                                              1
+  EVP_camellia_192_ofb                                              1
+  EVP_cast5_cbc                                                     1
+  EVP_cast5_cfb64                                                   1
+  EVP_cast5_ecb                                                     1
+  EVP_cast5_ofb                                                     1
+  EVP_des_cbc                                                       1
+  EVP_des_cfb1                                                      1
+  EVP_des_cfb64                                                     1
+  EVP_des_cfb8                                                      1
+  EVP_des_ecb                                                       1
+  EVP_des_ede                                                       1
+  EVP_des_ede3                                                      1
+  EVP_des_ede3_cbc                                                  1
+  EVP_des_ede3_cfb1                                                 1
+  EVP_des_ede3_cfb64                                                1
+  EVP_des_ede3_cfb8                                                 1
+  EVP_des_ede3_ofb                                                  1
+  EVP_des_ede3_wrap                                                 1
+  EVP_des_ede_cbc                                                   1
+  EVP_des_ede_cfb64                                                 1
+  EVP_des_ede_ofb                                                   1
+  EVP_des_ofb                                                       1
+  EVP_desx_cbc                                                      1
+  EVP_idea_cbc                                                      1
+  EVP_idea_cfb64                                                    1
+  EVP_idea_ecb                                                      1
+  EVP_idea_ofb                                                      1
+  EVP_rc2_40_cbc                                                    1
+  EVP_rc2_64_cbc                                                    1
+  EVP_rc2_cbc                                                       1
+  EVP_rc2_cfb64                                                     1
+  EVP_rc2_ecb                                                       1
+  EVP_rc2_ofb                                                       1
+  EVP_rc4                                                           1
+  EVP_rc4_40                                                        1
+  EVP_rc4_hmac_md5                                                  1
+  EVP_seed_cbc                                                      1
+  EVP_seed_cfb128                                                   1
+  EVP_seed_ecb                                                      1
+  EVP_seed_ofb                                                      1
+  EVP_sm4_cbc                                                       1
+  EVP_sm4_cfb128                                                    1
+  EVP_sm4_ctr                                                       1
+  EVP_sm4_ecb                                                       1
+  EVP_sm4_ofb                                                       1
+  OPENSSL_cpuid_setup                                               1
+  OPENSSL_strnlen                                                   1
+  _NSGetEnviron                                                     1
+  __bzero                                                           1
+  __fcntl                                                           1
+  __findenv_locked                                                  1
+  __open                                                            1
+  __sigaction                                                       1
+  _kernelrpc_mach_port_construct_trap                               1
+  _kernelrpc_mach_port_deallocate_trap                              1
+  _kernelrpc_mach_vm_deallocate_trap                                1
+  _kernelrpc_mach_vm_map_trap                                       1
+  _platform_strchr                                                  1
+  _pthread_mutex_check_init_slow                                    1
+  _pthread_mutex_firstfit_lock_slow                                 1
+  _szone_free                                                       1
+  _tiny_check_and_zero_inline_meta_from_freelist                    1
+  close                                                             1
+  dyld3::kdebug_trace_dyld_enabled(unsigned int)                    1
+  dyld4::BumpAllocator::~BumpAllocator()                            1
+  dyld4::DyldCacheDataConstLazyScopedWriter::DyldCacheDataConstLazyScopedWriter(dyld4::RuntimeState&)                1
+  dyld4::JustInTimeLoader::beginInitializers(dyld4::RuntimeState&)                1
+  dyld4::JustInTimeLoader::hiddenFromFlat(bool) const                1
+  dyld4::JustInTimeLoader::loadDependents(Diagnostics&, dyld4::RuntimeState&, dyld4::Loader::LoadOptions const&)                1
+  dyld4::LibSystemHelpers::pthread_getspecific(unsigned long) const                1
+  dyld4::Loader::beginInitializers(dyld4::RuntimeState&)                1
+  dyld4::Loader::hiddenFromFlat(bool) const                         1
+  dyld4::Loader::loadDependents(Diagnostics&, dyld4::RuntimeState&, dyld4::Loader::LoadOptions const&)                1
+  dyld4::RuntimeState::doSingletonPatching(dyld4::DyldCacheDataConstLazyScopedWriter&)                1
+  dyld4::RuntimeState::incDlRefCount(dyld4::Loader const*)                1
+  dyld4::RuntimeState::notifyObjCPatching()                         1
+  dyld4::handleFromLoader(dyld4::Loader const*, bool)                1
+  err_unshelve_state                                                1
+  get_tiny_previous_free_msize                                      1
+  invocation function for block in dyld4::Loader::forEachPath(Diagnostics&, dyld4::RuntimeState&, char const*, dyld4::Loader::Loa                1
+  lsl::EphemeralAllocator::reset()                                  1
+  lsl::Lock::lock()                                                 1
+  lsl::Lock::unlock()                                               1
+  lsl::Vector<dyld4::Loader const*>::reserveExact(unsigned long)                1
+  lsl::Vector<lsl::MemoryManager::Buffer>::reserve(unsigned long)                1
+  mach_msg2_trap                                                    1
+  medium_malloc_from_free_list                                      1
+  ossl_bio_core_globals_new                                         1
+  ossl_child_prov_ctx_new                                           1
+  ossl_ctx_global_properties_new                                    1
+  ossl_indicator_set_callback_new                                   1
+  ossl_isdigit                                                      1
+  ossl_lib_ctx_get_concrete                                         1
+  ossl_lib_ctx_get_ex_data_global                                   1
+  ossl_self_test_set_callback_new                                   1
+  pthread_mutex_lock                                                1
+  pthread_mutex_unlock                                              1
+  rack_region_insert                                                1
+  sigaction                                                         1
+  signal                                                            1
+  small_malloc_from_free_list                                       1
+  strchr                                                            1
+  szone_good_size                                                   1
+  tiny_free_list_add_ptr                                            1
+  tiny_free_list_remove_ptr                                         1
+  vm_deallocate                                                     1
+  _kernelrpc_mach_port_destruct_trap                                2
+  dyld4::ProcessConfig::DyldCache::indexOfPath(char const*, unsigned int&) const                2
+  lsl::EphemeralAllocator::deallocate_buffer(lsl::MemoryManager::Buffer)                2
+  lsl::EphemeralAllocator::~EphemeralAllocator()                    2
+  memset                                                            2
+  ossl_property_value                                               2
+  pthread_setspecific                                               2
+  set_tiny_meta_header_in_use                                       2
+  tiny_size                                                         2
+  BIO_new                                                           3
+  BIO_set_flags                                                     3
+  CRYPTO_atomic_load                                                3
+  CRYPTO_new_ex_data                                                3
+  DSO_METHOD_openssl                                                3
+  OPENSSL_sk_num                                                    3
+  dyld3::MachOFile::is64() const                                    3
+  dyld4::JustInTimeLoader::loadAddress(dyld4::RuntimeState&) const                3
+  dyld4::JustInTimeLoader::path() const                             3
+  dyld4::LibSystemHelpers::os_unfair_recursive_lock_lock_with_options(os_unfair_recursive_lock_s*, os_unfair_lock_options_t) cons                3
+  dyld4::LibSystemHelpers::os_unfair_recursive_lock_unlock(os_unfair_recursive_lock_s*) const                3
+  dyld4::Loader::loadAddress(dyld4::RuntimeState&) const                3
+  dyld4::Loader::matchesPath(char const*) const                     3
+  dyld4::Loader::path() const                                       3
+  dyld4::RuntimeState::PermanentRanges::contains(unsigned long, unsigned long, unsigned char*, dyld4::Loader const**) const                3
+  file_free                                                         3
+  file_new                                                          3
+  lsl::AllocationMetadata::AllocationMetadata(lsl::Allocator*, unsigned long)                3
+  nanov2_allocate_from_block                                        3
+  nanov2_size                                                       3
+  os_unfair_recursive_lock_lock_with_options                        3
+  os_unfair_recursive_lock_unlock                                   3
+  pthread_cond_init                                                 3
+  szone_malloc                                                      3
+  CRYPTO_THREAD_get_local                                           4
+  CRYPTO_realloc                                                    4
+  EVP_add_cipher                                                    4
+  FMT_istext                                                        4
+  __error                                                           4
+  dyld3::MachOFile::read_uleb128(Diagnostics&, unsigned char const*&, unsigned char const*)                4
+  dyld4::LibSystemHelpers::os_unfair_lock_lock_with_options(os_unfair_lock_s*, os_unfair_lock_options_t) const                4
+  dyld4::LibSystemHelpers::os_unfair_lock_unlock(os_unfair_lock_s*) const                4
+  free                                                              4
+  nanov2_pointer_size                                               4
+  os_unfair_lock_assert_not_owner                                   4
+  os_unfair_lock_assert_owner                                       4
+  ossl_sa_new                                                       4
+  pthread_mutex_init                                                4
+  rack_get_thread_index                                             4
+  realloc                                                           4
+  strlen                                                            4
+  OPENSSL_LH_set_thunks                                             5
+  ___chkstk_darwin                                                  5
+  __chkstk_darwin_probe                                             5
+  dyld3::ScopedTimer::endTimer()                                    5
+  dyld3::kdebug_trace_dyld_duration_end(unsigned long long, unsigned int, dyld3::kt_arg, dyld3::kt_arg, dyld3::kt_arg)                5
+  invocation function for block in dyld3::MachOFile::getDylibInstallName(char const**, unsigned int*, unsigned int*) const                5
+  kdebug_is_enabled                                                 5
+  lsl::EphemeralAllocator::allocate_buffer(unsigned long, unsigned long, unsigned long)                5
+  lsl::MemoryManager::lockGuard()                                   5
+  pthread_getspecific                                               5
+  sk_reserve                                                        5
+  dyld4::Loader::contains(dyld4::RuntimeState&, void const*, void const**, unsigned long long*, unsigned char*) const                6
+  ossl_property_name                                                6
+  Diagnostics::hasError() const                                     8
+  dyld3::OverflowSafeArray<unsigned int, 4294967295ul>::verifySpace(unsigned long)                8
+  ossl_lib_ctx_get_data                                             8
+  Diagnostics::noError() const                                      9
+  OPENSSL_sk_push                                                   9
+  pthread_rwlock_rdlock                                            11
+  os_unfair_lock_lock_with_options                                 12
+  os_unfair_lock_unlock                                            12
+  _platform_strlen                                                 13
+  _platform_memmove                                                14
+  invocation function for block in dyld3::MachOFile::getEntry(unsigned long long&, bool&) const               14
+  invocation function for block in dyld4::JustInTimeLoader::contains(dyld4::RuntimeState&, void const*, void const**, unsigned lo               17
+  Diagnostics::assertNoError() const                               19
+  pthread_rwlock_init                                              22
+  invocation function for block in dyld3::MachOLoaded::findClosestSymbol(unsigned long long, char const**, unsigned long long*) c               23
+  OPENSSL_LH_strhash                                               24
+  property_hash                                                    24
+  Diagnostics::Diagnostics(bool)                                   28
+  Diagnostics::~Diagnostics()                                      29
+  strcmp                                                           32
+  invocation function for block in dyld3::MachOLoaded::getLinkEditLoadCommands(Diagnostics&, dyld3::MachOLoaded::LinkEditInfo&) c               48
+  _Block_object_dispose                                            52
+  doapr_outch                                                      59
+  invocation function for block in dyld3::MachOFile::forEachSegment(void (dyld3::MachOFile::SegmentInfo const&, bool&) block_poin               64
+  strncmp                                                         120
+  obj_name_cmp                                                    139
+  nanov2_try_free_default                                         144
+  CRYPTO_free                                                     148
+  OPENSSL_LH_error                                                170
+  _platform_memset                                                223
+  OBJ_nid2obj                                                     250
+  ossl_lh_strcasehash                                             301
+  pthread_rwlock_wrlock                                           309
+  _os_once                                                        311
+  pthread_rwlock_unlock                                           319
+  malloc                                                          556
+  nanov2_malloc                                                   556
+  ossl_tolower                                                   3180
