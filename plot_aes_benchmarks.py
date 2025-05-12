@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Load CSV
 """ df = pd.read_csv("./container_out/aes_benchmark_results.csv") """
-df = pd.read_csv("m4_lima_aes_benchmark_results.csv")
+df = pd.read_csv("m1_vm_aes_benchmark_results.csv")
 
 # Split algorithm into key size and mode
 df[["cipher", "key_size", "mode"]] = df["algorithm"].str.extract(r"(AES)-(\d+)-([A-Z0-9]+)")
